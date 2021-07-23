@@ -10,7 +10,7 @@ import json
 from PIL import Image
 
 url = 'http://sf.do.co.th:5000/upload'
-data_url = 'http://sf.do.co.th:5000/upload/data'
+data_url = 'http://sf.do.co.th:5000/upload_data'
 img_quality = 30
 client_name = ""
 host_name = socket.gethostname()
